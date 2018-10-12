@@ -1,0 +1,52 @@
+# MakeHuman exported MTL
+# www.makehuman.org
+
+
+newmtl young_caucasian_female2
+Kd 1 1 1
+Ks 0.06275 0.05098 0.05098
+d 0
+map_Kd textures\young_lightskinned_female_diffuse2.png
+map_D textures\young_lightskinned_female_diffuse2.png
+
+newmtl ponytail01
+Kd 1 1 1
+Ks 0.04706 0.04706 0.04706
+d 0
+map_Kd textures\ponytail01_diffuse.png
+map_D textures\ponytail01_diffuse.png
+
+newmtl Eyeblue
+Kd 1 1 1
+Ks 1 1 1
+d 0
+map_Kd textures\blue_eye.png
+map_D textures\blue_eye.png
+
+newmtl eyebrow008
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\eyebrow008.png
+map_D textures\eyebrow008.png
+
+newmtl bodyMaterial
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\eyelashes01.png
+map_D textures\eyelashes01.png
+
+newmtl teethMaterial
+Kd 0.64 0.64 0.64
+Ks 0.8549 0.8549 0.8549
+d 0
+map_Kd textures\teeth.png
+map_D textures\teeth.png
+
+newmtl tongue01Material
+Kd 1 1 1
+Ks 0.03137 0.03137 0.03137
+d 0
+map_Kd textures\tongue01_diffuse.png
+map_D textures\tongue01_diffuse.png
